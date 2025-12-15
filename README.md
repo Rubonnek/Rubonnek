@@ -4,13 +4,11 @@ I'm passionate about making games with the Godot Game Engine and I have some fre
 
 ### 🚀 Free Godot Plugins
 
-Here are my Godot plugins that you can use in your projects:
-
-- **[dialogue-engine](https://github.com/Rubonnek/dialogue-engine)** - A minimalistic dialogue engine for the Godot Game Engine
-- **[quest-manager](https://github.com/Rubonnek/quest-manager)** - A minimalistic quest manager for the Godot Game Engine
-- **[inventory-manager](https://github.com/Rubonnek/inventory-manager)** - A minimalistic inventory manager for the Godot Game Engine
-- **[godot-gdx-texture-packer-atlas-importer](https://github.com/Rubonnek/godot-gdx-texture-packer-atlas-importer)** - GDX Texture Packer Importer for the Godot Engine
-- **[subtitles-importer](https://github.com/Rubonnek/subtitles-importer)** - A comprehensive subtitles importer plugin for the Godot Game Engine
+- **[dialogue-engine](https://github.com/Rubonnek/dialogue-engine)** - A minimalistic dialogue engine
+- **[quest-manager](https://github.com/Rubonnek/quest-manager)** - A minimalistic quest manager
+- **[inventory-manager](https://github.com/Rubonnek/inventory-manager)** - A minimalistic inventory manage
+- **[godot-gdx-texture-packer-atlas-importer](https://github.com/Rubonnek/godot-gdx-texture-packer-atlas-importer)** - Atlas import support for GDX Texture Packer
+- **[subtitles-importer](https://github.com/Rubonnek/subtitles-importer)** - A comprehensive subtitles importer plugin
 
 ### 🎥 Live Streaming & Community
 
