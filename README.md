@@ -4,11 +4,11 @@ I like making plugins for the Godot Game Engine
 
 ### 🚀 Free Godot Plugins
 
-- **[dialogue-engine](https://github.com/Rubonnek/dialogue-engine)** - A minimalistic dialogue engine
-- **[quest-manager](https://github.com/Rubonnek/quest-manager)** - A minimalistic quest manager
-- **[inventory-manager](https://github.com/Rubonnek/inventory-manager)** - A minimalistic inventory manage
-- **[godot-gdx-texture-packer-atlas-importer](https://github.com/Rubonnek/godot-gdx-texture-packer-atlas-importer)** - Atlas import support for GDX Texture Packer
-- **[subtitles-importer](https://github.com/Rubonnek/subtitles-importer)** - A comprehensive subtitles importer plugin
+- **Dialogue Engine** - [Asset Library](https://godotengine.org/asset-library/asset/2598) / [Github](https://github.com/Rubonnek/dialogue-engine) - A minimalistic dialogue engine
+- **Quest Manager - [Asset Library](https://godotengine.org/asset-library/asset/3470) / [Github](https://github.com/Rubonnek/quest-manager)** - A minimalistic quest manager
+- **Inventory Manager - [Asset Library](https://godotengine.org/asset-library/asset/3837) / [Github](https://github.com/Rubonnek/inventory-manager)** - A minimalistic inventory manage
+- **Subtitles Importer - [Asset Library](https://godotengine.org/asset-library/asset/4533) / [Github](https://github.com/Rubonnek/subtitles-importer)** - A comprehensive subtitles importer plugin
+- **GDX Texture Packer Importer - [Github](https://github.com/Rubonnek/godot-gdx-texture-packer-atlas-importer)** - Atlas import support for GDX Texture Packer
 
 ### 🎥 Live Streaming & Community
 
