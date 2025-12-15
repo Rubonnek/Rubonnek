@@ -1,6 +1,6 @@
 ## Hello and welcome! 👋
 
-I'm passionate about making games with the Godot Game Engine and I have some free open-source plugins you can use in your own games!
+I like making plugins for the Godot Game Engine
 
 ### 🚀 Free Godot Plugins
 
