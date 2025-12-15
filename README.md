@@ -1,8 +1,8 @@
-## Hi there! 👋 Welcome to my profile!
+## Hello and welcome! 👋
 
-I'm a game developer passionate about the Godot Game Engine, and I love creating free, open-source plugins to help the community! 🎮✨
+I'm passionate about making games with the Godot Game Engine and I have some free open-source plugins you can use in your own games!
 
-### 🚀 My Free Godot Plugins
+### 🚀 Free Godot Plugins
 
 Here are my Godot plugins that you can use in your projects:
 
@@ -14,10 +14,8 @@ Here are my Godot plugins that you can use in your projects:
 
 ### 🎥 Live Streaming & Community
 
-I build games live and love answering questions about my plugins and Godot development! Come hang out and ask me anything:
+Sometimes I do some development live, feel free to come hang out and ask me anything:
 
 - 🟣 **Twitch**: [twitch.tv/Rubonnek](https://www.twitch.tv/Rubonnek)
 - 🔴 **YouTube**: [youtube.com/@Rubonnek](https://www.youtube.com/@Rubonnek)
 - 🟢 **Kick**: [kick.com/Rubonnek](https://kick.com/Rubonnek)
-
-Feel free to drop by during a stream to chat about Godot, game development, or anything related to my plugins. See you there! 👾
