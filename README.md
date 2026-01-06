@@ -2,7 +2,7 @@
 
 I'm passionate about making minimalistic plugins for the Godot Game Engine that make game development easier in certain areas. You'll find these plugins right below this section.
 
-### 🚀 Free Godot Plugins
+### 🚀 Free Godot 4.2+ Plugins
 
 - **Dialogue Engine** - [Asset Library](https://godotengine.org/asset-library/asset/2598) / [Github](https://github.com/Rubonnek/dialogue-engine) - A minimalistic dialogue engine
 - **Quest Manager** - [Asset Library](https://godotengine.org/asset-library/asset/3470) / [Github](https://github.com/Rubonnek/quest-manager) - A minimalistic quest manager
