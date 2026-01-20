@@ -15,6 +15,7 @@ I'm passionate about making minimalistic plugins for the Godot Game Engine that 
 
 Sometimes I do some development live, feel free to come hang out and ask me anything:
 
-- 🟣 **Twitch**: [twitch.tv/Rubonnek](https://www.twitch.tv/Rubonnek)
-- 🔴 **YouTube**: [youtube.com/@Rubonnek](https://www.youtube.com/@Rubonnek)
-- 🟢 **Kick**: [kick.com/Rubonnek](https://kick.com/Rubonnek)
+- **Twitch**: [twitch.tv/Rubonnek](https://www.twitch.tv/Rubonnek)
+- **YouTube**: [youtube.com/@Rubonnek](https://www.youtube.com/@Rubonnek)
+- **Kick**: [kick.com/Rubonnek](https://kick.com/Rubonnek)
+- **Trovo**: [trovo.live/Rubonnek](https://trovo.live/Rubonnek)
