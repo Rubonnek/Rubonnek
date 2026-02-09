@@ -1,6 +1,6 @@
 ## Hello and welcome! 👋
 
-I'm passionate about making minimalistic plugins for the Godot Game Engine that make game development easier in certain areas. You'll find these plugins right below this section.
+I make minimalistic plugins for the Godot.
 
 ### 🚀 Free Godot 4.2+ Plugins
 
