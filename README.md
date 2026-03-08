@@ -1,6 +1,6 @@
 ## Hello and welcome! 👋
 
-I make minimalistic plugins for the Godot.
+I make minimalistic plugins for Godot.
 
 ### 🚀 Free Godot 4.2+ Plugins
 
